@@ -1,20 +1,20 @@
 ### 👋 Hi there. Eu sou o Felipe Magalhães.
 
-👨‍💻 Sobre Mim:
-🎓 Estudante de Desenvolvimento e Análise de Softwares na Universidade São Judas Tadeu.
-🌱 Atualmente, estou mudando de carreira para a área de tecnologia.
-🏛️ Formação Bacharelado em Arquitetura e Urbanismo pela Universidade de Guarulhos.
-🏗️ Experiência em elaboração e coordenação de projetos em grupo.
+- 👨‍💻 Sobre Mim:
+- 🎓 Estudante de Desenvolvimento e Análise de Softwares na Universidade São Judas Tadeu.
+- 🌱 Atualmente, estou mudando de carreira para a área de tecnologia.
+- 🏛️ Formação Bacharelado em Arquitetura e Urbanismo pela Universidade de Guarulhos.
+- 🏗️ Experiência em elaboração e coordenação de projetos em grupo.
 
-🔭 Interesses:
+- 🔭 Interesses:
 Desenvolvimento de Software
 Front-end e Back-end Web Development
 Tecnologias Emergentes e Inovação
 
-🌟 Objetivos:
+- 🌟 Objetivos:
 Estou buscando aprender e contribuir para projetos interessantes na área de tecnologia. Sou apaixonado por resolver problemas por meio da programação e estou comprometido em expandir meu conhecimento e habilidades técnicas.
 
-📫 Contato
+- 📫 Contato
 Você pode me encontrar no LinkedIn e Twitter. Ficarei feliz em me conectar e discutir ideias!
 
 Sinta-se à vontade para personalizar este README com suas próprias informações, adicionar links para suas redes sociais e outros detalhes que considerar relevantes. Isso ajudará a apresentar quem você é e quais são seus interesses e objetivos na área de tecnologia para quem visitar seu perfil no GitHub.
