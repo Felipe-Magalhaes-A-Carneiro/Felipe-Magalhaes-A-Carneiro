@@ -26,5 +26,5 @@ Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/felipe-magalha
 Sinta-se à vontade para personalizar este README com suas próprias informações, adicionar links para suas redes sociais e outros detalhes que considerar relevantes. Isso ajudará a apresentar quem você é e quais são seus interesses e objetivos na área de tecnologia para quem visitar seu perfil no GitHub.
 
 ### 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](keepo.io/felipe_magalhaes)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([keepo.io/felipe_magalhaes](https://keepo.io/felipe_magalhaes/))
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-magalhaes-arq/)
