@@ -1,10 +1,10 @@
 ### 👋 Hi there. Eu sou o Felipe Magalhães.
 
 - 👨‍💻 Sobre Mim:
-- 🎓 Estudante de Desenvolvimento e Análise de Softwares na Universidade São Judas Tadeu.
-- 🌱 Atualmente, estou mudando de carreira para a área de tecnologia.
-- 🏛️ Formação Bacharelado em Arquitetura e Urbanismo pela Universidade de Guarulhos.
-- 🏗️ Experiência em elaboração e coordenação de projetos em grupo.
+  🎓 Estudante de Desenvolvimento e Análise de Softwares na Universidade São Judas Tadeu.
+  🌱 Atualmente, estou mudando de carreira para a área de tecnologia.
+  🏛️ Formação Bacharelado em Arquitetura e Urbanismo pela Universidade de Guarulhos.
+  🏗️ Experiência em elaboração e coordenação de projetos em grupo.
 
 - 🔭 Interesses:
 Desenvolvimento de Software
