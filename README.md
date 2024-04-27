@@ -9,7 +9,6 @@
 
 🏗️ Experiência em elaboração e coordenação de projetos em grupo.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Magalhaes-A-Carneiro&layout=donut-vertical)](https://github.com/Felipe-Magalhaes-A-Carneiro/github-readme-stats)
 
 ### 🔭 Interesses:
 Desenvolvimento de Software
