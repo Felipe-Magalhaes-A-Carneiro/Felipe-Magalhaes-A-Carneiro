@@ -9,6 +9,7 @@
 
 🏗️ Experiência em elaboração e coordenação de projetos em grupo.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Magalhaes-A-Carneiro&layout=donut-vertical)](https://github.com/Felipe-Magalhaes-A-Carneiro/github-readme-stats)
 
 ### 🔭 Interesses:
 Desenvolvimento de Software
@@ -29,4 +30,3 @@ Sinta-se à vontade para personalizar este README com suas próprias informaçõ
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://keepo.io/felipe_magalhaes/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-magalhaes-arq/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Magalhaes-A-Carneiro&layout=donut-vertical)](https://github.com/Felipe-Magalhaes-A-Carneiro/github-readme-stats)
