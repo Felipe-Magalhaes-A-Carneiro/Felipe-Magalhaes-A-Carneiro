@@ -1,6 +1,6 @@
-👋 Hello! I’m Felipe Magalhães
+# 👋 Hello! I’m Felipe Magalhães
 
-👨‍💻 About Me:
+### 👨‍💻 About Me:
 
 🎓 I hold a degree in Systems Analysis and Development from São Judas Tadeu University.
 
@@ -10,18 +10,18 @@
 
 🏗️ I have solid experience in project planning, teamwork, and cross-functional collaboration, especially in multidisciplinary environments.
 
-🔭 Interests:
+### 🔭 Interests:
 Full Stack Web Development (Front-end and Back-end)
 
 Java, Python, Spring Boot, Node.js, React, and SQL
 
 Emerging Technologies and Innovation
 
-🌟 Goals:
+### 🌟 Goals:
 I am eager to learn continuously and contribute to meaningful technology projects.
 I am passionate about solving problems through programming and I am committed to developing my technical skills and professional growth.
 
-📫 Let’s Connect:
+### 📫 Let’s Connect:
 You can find me on [LinkedIn](https://www.linkedin.com/in/felipe-magalhaes-arq/). I’m always open to connecting, sharing knowledge, and discussing ideas!
 
 ### 🔗 Links
@@ -31,4 +31,4 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/felipe-magalhaes-arq/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Magalhaes-A-Carneiro&layout=donut-vertical)](https://github.com/Felipe-Magalhaes-A-Carneiro/github-readme-stats)
 
 ---
-Feel free to explore my repositories and follow my journey as I grow in the tech field 🚀
+### Feel free to explore my repositories and follow my journey as I grow in the tech field 🚀
