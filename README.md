@@ -1,6 +1,7 @@
 👋 Hello! I’m Felipe Magalhães
 
 👨‍💻 About Me:
+
 🎓 I hold a degree in Systems Analysis and Development from São Judas Tadeu University.
 
 🌱 I am currently transitioning my career to the technology and software development field.
