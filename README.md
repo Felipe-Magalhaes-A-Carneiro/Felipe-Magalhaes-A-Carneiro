@@ -1,27 +1,27 @@
-## 👋 Olá! Eu sou o Felipe Magalhães.
+👋 Hello! I’m Felipe Magalhães
 
-### 👨‍💻 Sobre Mim:
-🎓 Estudante de Desenvolvimento e Análise de Softwares na Universidade São Judas Tadeu.
+👨‍💻 About Me:
+🎓 I hold a degree in Systems Analysis and Development from São Judas Tadeu University.
 
-🌱 Atualmente, estou mudando de carreira para a área de tecnologia.
+🌱 I am currently transitioning my career to the technology and software development field.
 
-🏛️ Formação Bacharelado em Arquitetura e Urbanismo pela Universidade de Guarulhos.
+🏛️ I also have a Bachelor’s Degree in Architecture and Urbanism from Universidade de Guarulhos.
 
-🏗️ Experiência em elaboração e coordenação de projetos em grupo.
+🏗️ I have solid experience in project planning, teamwork, and cross-functional collaboration, especially in multidisciplinary environments.
 
+🔭 Interests:
+Full Stack Web Development (Front-end and Back-end)
 
-### 🔭 Interesses:
-Desenvolvimento de Software
-Front-end e Back-end Web Development
-Tecnologias Emergentes e Inovação
+Java, Python, Spring Boot, Node.js, React, and SQL
 
+Emerging Technologies and Innovation
 
-###  🌟 Objetivos:
-Estou buscando aprender e contribuir para projetos interessantes na área de tecnologia. Sou apaixonado por resolver problemas por meio da programação e estou comprometido em expandir meu conhecimento e habilidades técnicas.
+🌟 Goals:
+I am eager to learn continuously and contribute to meaningful technology projects.
+I am passionate about solving problems through programming and I am committed to developing my technical skills and professional growth.
 
-
-###  📫 Contato
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/felipe-magalhaes-arq/). Ficarei feliz em me conectar e discutir ideias!
+📫 Let’s Connect:
+You can find me on [LinkedIn](https://www.linkedin.com/in/felipe-magalhaes-arq/). I’m always open to connecting, sharing knowledge, and discussing ideas!
 
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://keepo.io/felipe_magalhaes/)
@@ -29,4 +29,5 @@ Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/felipe-magalha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Magalhaes-A-Carneiro&layout=donut-vertical)](https://github.com/Felipe-Magalhaes-A-Carneiro/github-readme-stats)
 
-Sinta-se à vontade para personalizar este README com suas próprias informações, adicionar links para suas redes sociais e outros detalhes que considerar relevantes. Isso ajudará a apresentar quem você é e quais são seus interesses e objetivos na área de tecnologia para quem visitar seu perfil no GitHub.
+---
+Feel free to explore my repositories and follow my journey as I grow in the tech field 🚀
